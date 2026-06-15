@@ -4,3 +4,5 @@ version = "0.0.1"
 edition = "2024"
 
 [dependencies]
+glib = "0.22.7"
+gtk = "0.18.2"
