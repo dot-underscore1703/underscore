@@ -24,6 +24,7 @@ Run with
 - glib
 - Dbus
 - cargo (for installation)
+      - See underscore/Cargo.toml for a list of build dependencies.
 
 Debian/Ubuntu
 `sudo apt install libgtk-3-dev libglib2.0-dev libdbus-1-dev pkg-config`
